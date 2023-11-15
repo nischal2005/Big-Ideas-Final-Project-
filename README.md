@@ -9,7 +9,7 @@ Email Addresses:
 
 Nischal Kharel: nik174@pitt.edu
 
-Maya Aponte: 
+Maya Aponte: mia153@pitt.edu
 
 # Descriptions + Links to Datasets used: 
 
