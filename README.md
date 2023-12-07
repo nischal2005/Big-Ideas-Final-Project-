@@ -1,7 +1,7 @@
 # Big-Ideas-Final-Project-
 Best neighborhood in Pittsburgh Lab
 
- Team name: _______
+Team name: Da Best Team
 
 Team Members: Nischal Kharel, Maya Aponte
 
@@ -14,7 +14,22 @@ Maya Aponte: mia153@pitt.edu
 # Descriptions + Links to Datasets used: 
 
 
-One Sentence overview of our Repository:
+Police-Arrest Dataset
+https://tinyurl.com/PoliceArrestInPittsburgh
+
+
+Fire Incident in City of Pittsburgh Dataset
+https://tinyurl.com/FireIncidentINPittsurgh
+
+
+Non-Traffic Citations can include "drunkeness" , "scattering rubbish",  "Intentionally damages real or personal property of another" 
+https://tinyurl.com/NON-TRAFFIC-CITATIONS
+
+
+
+
+
+
 
 
 
