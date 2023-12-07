@@ -32,7 +32,8 @@ The Persnoal Citations Notebook belongs to both of us
 
 # Canvas Group 37
 
-one sentence overvie
+one sentence overview of repository
+ Notebooks with data on Fire Incidents, Police arrests, and citations in Pittsburgh to determine Best/safest Neighborhood."
 
 
 
