@@ -26,7 +26,13 @@ Non-Traffic Citations can include "drunkeness" , "scattering rubbish",  "Intenti
 https://tinyurl.com/NON-TRAFFIC-CITATIONS
 
 
+The Personal Police Arrest Notebook belongs to Nischal
+The Personal Fire Notebook belongs to Maya
+The Persnoal Citations Notebook belongs to both of us
 
+# Canvas Group 37
+
+one sentence overvie
 
 
 
